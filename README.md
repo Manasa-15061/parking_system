@@ -32,7 +32,7 @@ This system helps users:
 - React.js
 
 ### Backend
-- Node.js
+- Next.js
 
 ### Databases
 
