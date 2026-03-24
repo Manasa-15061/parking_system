@@ -1,4 +1,4 @@
-# 🚗 Smart Parking System (India)
+# 🚗 Smart Parking System 
 
 A full-stack web application to find, book, and pay for parking slots in real-time.
 
